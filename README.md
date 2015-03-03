@@ -97,7 +97,7 @@ Once you've installed ElasticSearch, built the Oculus scoring plugins and edited
 bin/elasticsearch
 ```
 
-You can verify that Elasticsearch is up and running by visiting ```http://locahost:9200``` on the box you installed ElasticSearch on. If all is well, you should see JSON similar to the below:
+You can verify that Elasticsearch is up and running by visiting ```http://localhost:9200``` on the box you installed ElasticSearch on. If all is well, you should see JSON similar to the below:
 
 ```
 {
